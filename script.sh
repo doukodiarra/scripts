@@ -8,3 +8,4 @@ lscpu
 nproc
 cat /etc/*release
 lsblk
+uname -r
